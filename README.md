@@ -16,58 +16,58 @@
 
 </br>
 
-## Contents
+## `📑 Contents :`
 
 - C++
-  - Introduction to C++
+  - `Introduction to C++`
     - History and Overview
     - Setting Up the Development Environment
     - First C++ Program
-  - Basics of C++
+  - `Basics of C++`
     - Variables and Data Types
     - Operators
     - Control Flow (if, else, switch)
     - Loops (for, while, do-while)
-  - Functions in C++
+  - `Functions in C++`
     - Function Declaration and Definition
     - Parameters and Return Types
     - Function Overloading
     - Recursion
-  - Object-Oriented Programming (OOP)
+  - `Object-Oriented Programming (OOP)`
     - Classes and Objects
     - Inheritance
     - Polymorphism
     - Encapsulation
     - Abstraction
-  - C++ Standard Template Library (STL)
+  - `C++ Standard Template Library (STL)`
     - Containers
     - Iterators
     - Algorithms
-  - Memory Management
+  - `Memory Management`
     - Dynamic Memory Allocation (new and delete)
     - Smart Pointers
-  - File Handling
+  - `File Handling`
     - Reading from and Writing to Files
     - File Streams
-  - Exception Handling
+  - `Exception Handling`
     - try, catch, throw
     - Standard Exceptions
-  - Advanced Topics
+  - `Advanced Topics`
     - Templates
     - Lambda Expressions
     - Multithreading
     - Regular Expressions
-  - Best Practices and Coding Standards
+  - `Best Practices and Coding Standards`
     - Code Organization
     - Naming Conventions
     - Documentation
-  - Real-world Applications and Case Studies
+  - `Real-world Applications and Case Studies`
 
 </br>
 
 ### ✅ Day 1: History & Setup
 
-#### Install a C++ compiler and a code editor.
+#### `Install a C++ compiler and a code editor.`
 
 - History and Overview
 - Install GCC (GNU Compiler Collection) or Visual Studio as your compiler.
@@ -75,90 +75,86 @@
 
 ### ❌ Day 2-3: Basics of Syntax
 
-#### Learn about basic C++ syntax, variables, and data types.
+#### `Learn about basic C++ syntax, variables, and data types.`
 
 - Read online tutorials or use learning platforms like Codecademy or Khan Academy to understand fundamental C++ syntax.
 
 ### ❌ Day 4-5: Control Flow
 
-#### Explore control flow statements (if, else, switch) and loops (for, while).
+#### `Explore control flow statements (if, else, switch) and loops (for, while).`
 
 - Write simple programs to practice using these statements.
 - Print patterns or solve basic problems using loops.
 
 ### ❌ Day 6-7: Functions
 
-#### Understand functions, function prototypes, parameters, and return types.
+#### `Understand functions, function prototypes, parameters, and return types.`
 
 - Write functions for simple mathematical operations.
 - Practice calling functions with different arguments.
 
 ### ❌ Day 8-10: Arrays and Strings
 
-#### Dive into arrays and strings in C++.
+#### `Dive into arrays and strings in C++.`
 
 - Create programs that manipulate arrays and strings.
 - Practice iterating through arrays and performing operations on strings.
 
 ### ❌ Day 11-12: Introduction to OOP
 
-#### Learn the basics of object-oriented programming (OOP) - classes and objects.
+#### `Learn the basics of object-oriented programming (OOP) - classes and objects.`
 
 - Write a simple class and create objects.
 - Understand the concept of encapsulation.
 
 ### ❌ Day 13-15: Advanced OOP Concepts
 
-#### Learn about inheritance, polymorphism, encapsulation, and abstraction.
+#### `Learn about inheritance, polymorphism, encapsulation, and abstraction.`
 
 - Extend your previous class with inheritance.
 - Implement polymorphism and explore abstraction and encapsulation concepts.
 
 ### ❌ Day 16-17: STL - Vectors, Lists, Queues
 
-#### Explore the Standard Template Library (STL) - vectors, lists, and queues.
+#### `Explore the Standard Template Library (STL) - vectors, lists, and queues.`
 
 - Create programs using these STL containers.
 - Understand their methods and properties.
 
 ### ❌ Day 18-20: STL - Maps, Sets, Algorithms
 
-#### Study maps, sets, and algorithms provided by the STL.
+#### `Study maps, sets, and algorithms provided by the STL.`
 
 - Implement programs using maps and sets.
 - Explore algorithms like sorting and searching in the STL.
 
 ### ❌ Day 21-22: File Handling
 
-### Understand file input/output operations in C++.
+### `Understand file input/output operations in C++.`
 
 - Write programs that read from and write to files.
 - Practice error handling for file operations.
 
 ### ❌ Day 23-25: Exception Handling
 
-#### Dive into exception handling with try, catch, and throw statements.
+#### `Dive into exception handling with try, catch, and throw statements.`
 
 - Create programs that handle exceptions gracefully.
 - Practice catching different types of errors.
 
 ### ❌ Day 26-27: Mini Project
 
-#### Work on a small project. Choose something that interests you.
+#### `Work on a small project. Choose something that interests you.`
 
 - Start planning and coding your project.
 - It could be a simple game, a data management system, or any other application.
 
 ### ❌ Day 28-30: Advanced Concepts
 
-#### Explore advanced C++ concepts like pointers, dynamic memory allocation, and templates.
+#### `Explore advanced C++ concepts like pointers, dynamic memory allocation, and templates.`
 
 - Apply these concepts in your mini project.
 - Experiment with templates and dynamic memory.
-
-</br></br>
-
-## HAPPY LEARNING !!
 
 </br></br>
 
@@ -168,5 +164,6 @@
 </h4>
 
 <p align="center">
+  HAPPY LEARNING !!</br>
   DEVELOPED WITH ❤️ BY SNEH KR 
 </p>
