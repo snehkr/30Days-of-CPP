@@ -73,7 +73,7 @@
 - Install GCC (GNU Compiler Collection) or Visual Studio as your compiler.
 - Choose a code editor such as VS Code, Sublime Text, or any other you're comfortable with.
 
-### 🟠 Day 2: Basics of Syntax
+### ✅ Day 2: Basics of Syntax
 
 #### `Learn about basic C++ syntax, variables, and data types.`
 
