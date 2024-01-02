@@ -12,7 +12,7 @@
 
 ## 📅 TRACK DAYS: 01 of 30
 
-#### ✅ COMPLETED ❌ NOT COMPLETED 🟠 CURRENT
+#### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
 </br>
 
@@ -73,55 +73,62 @@
 - Install GCC (GNU Compiler Collection) or Visual Studio as your compiler.
 - Choose a code editor such as VS Code, Sublime Text, or any other you're comfortable with.
 
-### ❌ Day 2-3: Basics of Syntax
+### 🟠 Day 2: Basics of Syntax
 
 #### `Learn about basic C++ syntax, variables, and data types.`
 
-- Read online tutorials or use learning platforms like Codecademy or Khan Academy to understand fundamental C++ syntax.
+- Syntax
+- Token
+- Comment
+- Keyword
+- Variables & Constant
+- Data Types
+- Operators
+- Input/Output
 
-### ❌ Day 4-5: Control Flow
+### ❌ Day 3-4: Control Flow
 
 #### `Explore control flow statements (if, else, switch) and loops (for, while).`
 
 - Write simple programs to practice using these statements.
 - Print patterns or solve basic problems using loops.
 
-### ❌ Day 6-7: Functions
+### ❌ Day 5: Functions
 
 #### `Understand functions, function prototypes, parameters, and return types.`
 
 - Write functions for simple mathematical operations.
 - Practice calling functions with different arguments.
 
-### ❌ Day 8-10: Arrays and Strings
+### ❌ Day 6-7: Arrays and Strings
 
 #### `Dive into arrays and strings in C++.`
 
 - Create programs that manipulate arrays and strings.
 - Practice iterating through arrays and performing operations on strings.
 
-### ❌ Day 11-12: Introduction to OOP
+### ❌ Day 8: Introduction to OOP
 
 #### `Learn the basics of object-oriented programming (OOP) - classes and objects.`
 
 - Write a simple class and create objects.
 - Understand the concept of encapsulation.
 
-### ❌ Day 13-15: Advanced OOP Concepts
+### ❌ Day 9-12: Advanced OOP Concepts
 
 #### `Learn about inheritance, polymorphism, encapsulation, and abstraction.`
 
 - Extend your previous class with inheritance.
 - Implement polymorphism and explore abstraction and encapsulation concepts.
 
-### ❌ Day 16-17: STL - Vectors, Lists, Queues
+### ❌ Day 13-16: STL - Vectors, Lists, Queues
 
 #### `Explore the Standard Template Library (STL) - vectors, lists, and queues.`
 
 - Create programs using these STL containers.
 - Understand their methods and properties.
 
-### ❌ Day 18-20: STL - Maps, Sets, Algorithms
+### ❌ Day 17-20: STL - Maps, Sets, Algorithms
 
 #### `Study maps, sets, and algorithms provided by the STL.`
 
