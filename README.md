@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 01 of 30
+## 📅 TRACK DAYS: 03 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -86,7 +86,7 @@
 - Operators
 - Input/Output
 
-### ❌ Day 3-4: Control Flow
+### 🟠 Day 3-4: Control Flow
 
 #### `Explore control flow statements (if, else, switch) and loops (for, while).`
 
