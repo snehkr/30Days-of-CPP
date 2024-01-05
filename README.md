@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 03 of 30
+## 📅 TRACK DAYS: 05 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -93,7 +93,7 @@
 - Write simple programs to practice using these statements.
 - Print patterns or solve basic problems using loops.
 
-### ❌ Day 5: Functions
+### ✅ Day 5: Functions
 
 #### `Understand functions, function prototypes, parameters, and return types.`
 
