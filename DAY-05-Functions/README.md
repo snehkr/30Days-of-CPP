@@ -7,20 +7,6 @@
 ## 📑 Contents :
 
 - C++ Functions
-  class MathOperations {
-public:
-    // Static member function
-    static int add(int a, int b) {
-        return a + b;
-    }
-};
-
-int main() {
-    int sum = MathOperations::add(3, 4); // Calling a static member function
-    std::cout << "Sum: " << sum << std::endl;
-    return 0;
-}
-
   - Function Overloading
   - Function Overriding
   - Member Functions
