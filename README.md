@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 06 of 30
+## 📅 TRACK DAYS: 07 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -100,7 +100,7 @@
 - Write functions for simple mathematical operations.
 - Practice calling functions with different arguments.
 
-### 🟠 Day 6-7: Arrays and Strings
+### ✅ Day 6-7: Arrays and Strings
 
 #### `Dive into arrays and strings in C++.`
 
