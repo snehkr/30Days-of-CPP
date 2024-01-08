@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 07 of 30
+## 📅 TRACK DAYS: 08 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -107,7 +107,7 @@
 - Create programs that manipulate arrays and strings.
 - Practice iterating through arrays and performing operations on strings.
 
-### ❌ Day 8: Introduction to OOP
+### ✅ Day 8: Introduction to OOP
 
 #### `Learn the basics of object-oriented programming (OOP) - classes and objects.`
 
