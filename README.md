@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 11 of 30
+## 📅 TRACK DAYS: 12 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -114,7 +114,7 @@
 - Write a simple class and create objects.
 - Understand the concept of encapsulation.
 
-### 🟠 Day 9-12: Advanced OOP Concepts
+### ✅ Day 9-12: Advanced OOP Concepts
 
 #### `Learn about inheritance, polymorphism, encapsulation, and abstraction.`
 
