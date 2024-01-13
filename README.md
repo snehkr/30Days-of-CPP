@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 12 of 30
+## 📅 TRACK DAYS: 13 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -121,7 +121,7 @@
 - Extend your previous class with inheritance.
 - Implement polymorphism and explore abstraction and encapsulation concepts.
 
-### ❌ Day 13-16: STL - Vectors, Lists, Queues
+### 🟠 Day 13-16: STL - Vectors, Lists, Queues
 
 #### `Explore the Standard Template Library (STL) - vectors, lists, and queues.`
 
