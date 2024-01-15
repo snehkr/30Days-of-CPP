@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 14 of 30
+## 📅 TRACK DAYS: 15 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -121,35 +121,35 @@
 - Extend your previous class with inheritance.
 - Implement polymorphism and explore abstraction and encapsulation concepts.
 
-### 🟠 Day 13-16: STL - Vectors, Lists, Queues
+### ✅ Day 13-15: STL - Vectors, Lists, Queues
 
 #### `Explore the Standard Template Library (STL) - vectors, lists, and queues.`
 
 - Create programs using these STL containers.
 - Understand their methods and properties.
 
-### ❌ Day 17-20: STL - Maps, Sets, Algorithms
+### ❌ Day 16-18: STL - Maps, Sets, Algorithms
 
 #### `Study maps, sets, and algorithms provided by the STL.`
 
 - Implement programs using maps and sets.
 - Explore algorithms like sorting and searching in the STL.
 
-### ❌ Day 21-22: File Handling
+### ❌ Day 19-20: File Handling
 
 ### `Understand file input/output operations in C++.`
 
 - Write programs that read from and write to files.
 - Practice error handling for file operations.
 
-### ❌ Day 23-25: Exception Handling
+### ❌ Day 21-22: Exception Handling
 
 #### `Dive into exception handling with try, catch, and throw statements.`
 
 - Create programs that handle exceptions gracefully.
 - Practice catching different types of errors.
 
-### ❌ Day 26-27: Mini Project
+### ❌ Day 23-27: Mini Project
 
 #### `Work on a small project. Choose something that interests you.`
 
