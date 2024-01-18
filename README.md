@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 17 of 30
+## 📅 TRACK DAYS: 18 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -128,7 +128,7 @@
 - Create programs using these STL containers.
 - Understand their methods and properties.
 
-### 🟠 Day 16-18: STL - Maps, Sets, Algorithms
+### ✅ Day 16-18: STL - Maps, Sets, Algorithms
 
 #### `Study maps, sets, and algorithms provided by the STL.`
 
