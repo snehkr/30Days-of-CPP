@@ -10,7 +10,7 @@
 
 </br>
 
-## 📅 TRACK DAYS: 19 of 30
+## 📅 TRACK DAYS: 20 of 30
 
 #### ✅ COMPLETED ❌ NOT COMPLETED 🟠 IN-PROGRESS
 
@@ -142,7 +142,7 @@
 - Write programs that read from and write to files.
 - Practice error handling for file operations.
 
-### ❌ Day 20: Exception Handling
+### ✅ Day 20: Exception Handling
 
 #### `Dive into exception handling with try, catch, and throw statements.`
 
